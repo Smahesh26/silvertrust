@@ -6508,7 +6508,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 1, ../../01 cl html template/New folder/May 2019/174 Ariclaw Lawyer/Ariclaw Lawyer Html/sass/_breadcrumb.scss */
 .breadcrumb_bg {
-  background-image: url("../img/breadcrumb.png");
+  background-image: url("https://png.pngtree.com/background/20210717/original/pngtree-natural-light-elegant-silence-blue-paper-cut-leaves-background-picture-image_1430571.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -6584,3 +6584,115 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /*# sourceMappingURL=style.css.map */
+.silverline_trust_operations .operations_list h4 {
+  font-size: 20px;
+  margin-bottom: 10px;
+  color: #005a73;
+}
+
+.silverline_trust_operations .operations_list p {
+  font-size: 16px;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.core_values .values_list h4 {
+  font-size: 20px;
+  margin-bottom: 10px;
+  color: #2c3e50;
+}
+
+.core_values .values_list p {
+  font-size: 16px;
+  margin-bottom: 20px;
+  color: #555;
+}
+
+.silverline_trust_operations img,
+.core_values img {
+  width: 100%;
+  border-radius: 10px;
+}
+.values_list {
+  padding: 20px;
+  background-color: #f8f9fa; /* Light background for each section */
+  border-radius: 8px; /* Rounded corners */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+.values_list h4 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+.values_list p {
+  font-size: 1rem;
+  line-height: 1.6;
+}
+/* Change the color of the service icons to dark blue */
+.service-icon {
+  fill: #003366; /* Dark blue color for SVG icons */
+  width: 50px; /* Adjust the size if necessary */
+  height: 50px;
+}
+
+/* Optional: Adding some styling to the services */
+.single_single_service {
+  text-align: center;
+  padding: 20px;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.single_single_service h4 {
+  margin-top: 20px;
+  font-size: 1.5rem;
+  color: #003366; /* Dark blue for the heading */
+}
+
+.single_single_service p {
+  font-size: 1rem;
+  color: #555; /* Grey color for text */
+  line-height: 1.6;
+}
+/* Change icon color to blue */
+.service-icon {
+    fill: #007BFF; /* Bright blue color */
+    width: 50px; /* Adjust the size if needed */
+    height: 50px;
+    transition: fill 0.3s ease; /* Optional: Smooth transition effect on hover */
+}
+
+/* Optional: Add hover effect */
+.single_single_service:hover .service-icon {
+    fill: #0056b3; /* Darker blue color on hover */
+}
+
+/* Additional styling */
+.single_single_service {
+    text-align: center;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.single_single_service h4 {
+    margin-top: 20px;
+    font-size: 1.5rem;
+    color: #003366; /* Dark blue for the heading */
+}
+
+.single_single_service p {
+    font-size: 1rem;
+    color: #555; /* Grey color for text */
+    line-height: 1.6;
+}
+.service-icon {
+  font-size: 50px;  /* Adjust the size of the icons */
+  color: #007BFF;   /* Blue color for icons */
+  transition: color 0.3s ease;
+}
+
+.single_single_service:hover .service-icon {
+  color: #0056b3; /* Darker blue color on hover */
+}
